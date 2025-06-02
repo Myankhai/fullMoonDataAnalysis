@@ -13,9 +13,7 @@ This project analyzes the relationship between homicide frequencies in major US 
    ```
    pip install -r requirements.txt
    ```
-   NASA_API_KEY=your_api_key_here
-   ```
-4. Run the main analysis:
+3. Run the main analysis:
    ```
    python main.py
    ```
