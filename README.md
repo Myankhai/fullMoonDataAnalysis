@@ -5,7 +5,6 @@ This project analyzes the relationship between homicide frequencies in major US 
 ## Features
 - Fetches and analyzes homicide data from Chicago and NYC
 - Tracks full moon cycles and their correlation with crime rates
-
 - Generates visualizations of correlations and patterns
 
 ## Setup
@@ -29,9 +28,8 @@ This project analyzes the relationship between homicide frequencies in major US 
 ## Requirements
 - Python 3.8+
 
-
 ## Output
 The analysis generates various visualizations and statistical analyses:
 - Time series of homicide frequencies
 - Full moon correlation analysis
-- Combined analysis plots 
+- Combined analysis plots
