@@ -14,8 +14,6 @@ This project analyzes the relationship between homicide frequencies in major US 
    ```
    pip install -r requirements.txt
    ```
-3. Create a `.env` file with your NASA API key:
-   ```
    NASA_API_KEY=your_api_key_here
    ```
 4. Run the main analysis:
