@@ -3,7 +3,7 @@
 This project analyzes the relationship between homicide frequencies in major US cities (Chicago,NYC, LA), and full moon lunar cycles.
 
 ## Features
-- Fetches and analyzes homicide data from Chicago, NYC and LA.
+- Fetches and analyzes homicide data from Chicago, NYC and LA. (2021-2022)
 - Tracks full moon cycles and their correlation with crime rates
 - Generates visualizations of correlations and patterns
 
