@@ -1,0 +1,4787 @@
+{
+  "cities": {
+    "CHICAGO": {
+      "correlation": -0.019859938656663793,
+      "p_value": 0.730186561931448,
+      "daily_data": [
+        {
+          "date": "2022-01-01",
+          "count": 3.0,
+          "moon_phase": 0.04739161491394043,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-02",
+          "count": 3.0,
+          "moon_phase": 0.009628596305847168,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-03",
+          "count": 1.0,
+          "moon_phase": 0.0017906059324741363,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-04",
+          "count": 4.0,
+          "moon_phase": 0.023911144733428955,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-06",
+          "count": 1.0,
+          "moon_phase": 0.1436216926574707,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-10",
+          "count": 2.0,
+          "moon_phase": 0.525128173828125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-11",
+          "count": 1.0,
+          "moon_phase": 0.6213825225830079,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-12",
+          "count": 3.0,
+          "moon_phase": 0.7113153076171875,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-15",
+          "count": 5.0,
+          "moon_phase": 0.9205168151855468,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-16",
+          "count": 3.0,
+          "moon_phase": 0.96338623046875,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-17",
+          "count": 1.0,
+          "moon_phase": 0.9898756408691406,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-18",
+          "count": 2.0,
+          "moon_phase": 0.9986019897460937,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-20",
+          "count": 6.0,
+          "moon_phase": 0.9595381164550781,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-22",
+          "count": 4.0,
+          "moon_phase": 0.8459681701660157,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-23",
+          "count": 2.0,
+          "moon_phase": 0.7642797088623047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-24",
+          "count": 2.0,
+          "moon_phase": 0.6691757202148437,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-25",
+          "count": 1.0,
+          "moon_phase": 0.5641053771972656,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-26",
+          "count": 3.0,
+          "moon_phase": 0.4534426116943359,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-27",
+          "count": 3.0,
+          "moon_phase": 0.3425221252441406,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-29",
+          "count": 2.0,
+          "moon_phase": 0.14521056175231933,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-30",
+          "count": 2.0,
+          "moon_phase": 0.07204414367675781,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-31",
+          "count": 1.0,
+          "moon_phase": 0.023405370712280275,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-01",
+          "count": 6.0,
+          "moon_phase": 0.002535635828971863,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-02",
+          "count": 1.0,
+          "moon_phase": 0.00997897982597351,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-03",
+          "count": 2.0,
+          "moon_phase": 0.043654584884643556,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-04",
+          "count": 1.0,
+          "moon_phase": 0.09953042030334473,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-05",
+          "count": 2.0,
+          "moon_phase": 0.17258068084716796,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-06",
+          "count": 2.0,
+          "moon_phase": 0.25766046524047853,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-08",
+          "count": 4.0,
+          "moon_phase": 0.44582210540771483,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-09",
+          "count": 2.0,
+          "moon_phase": 0.5415545654296875,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-10",
+          "count": 2.0,
+          "moon_phase": 0.6344375228881836,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-11",
+          "count": 1.0,
+          "moon_phase": 0.7219344329833984,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-12",
+          "count": 2.0,
+          "moon_phase": 0.8016221618652344,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-13",
+          "count": 1.0,
+          "moon_phase": 0.8710622406005859,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-15",
+          "count": 1.0,
+          "moon_phase": 0.9691942596435547,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-02-17",
+          "count": 1.0,
+          "moon_phase": 0.9972190856933594,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-02-18",
+          "count": 3.0,
+          "moon_phase": 0.9804688262939453,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-02-19",
+          "count": 1.0,
+          "moon_phase": 0.9423248291015625,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-20",
+          "count": 3.0,
+          "moon_phase": 0.8834479522705078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-22",
+          "count": 2.0,
+          "moon_phase": 0.7120490264892578,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-23",
+          "count": 1.0,
+          "moon_phase": 0.6066324615478516,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-24",
+          "count": 1.0,
+          "moon_phase": 0.49445613861083987,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-25",
+          "count": 2.0,
+          "moon_phase": 0.381282958984375,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-27",
+          "count": 1.0,
+          "moon_phase": 0.17695241928100586,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-28",
+          "count": 3.0,
+          "moon_phase": 0.09791229248046875,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-02",
+          "count": 1.0,
+          "moon_phase": 0.008838117718696595,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-04",
+          "count": 2.0,
+          "moon_phase": 0.02102485179901123,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-06",
+          "count": 2.0,
+          "moon_phase": 0.11996939659118652,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-07",
+          "count": 2.0,
+          "moon_phase": 0.19275144577026368,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-08",
+          "count": 3.0,
+          "moon_phase": 0.27581125259399414,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-09",
+          "count": 2.0,
+          "moon_phase": 0.3655983352661133,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-10",
+          "count": 1.0,
+          "moon_phase": 0.45897754669189456,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-13",
+          "count": 2.0,
+          "moon_phase": 0.7332389831542969,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-15",
+          "count": 1.0,
+          "moon_phase": 0.8836682891845703,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-16",
+          "count": 1.0,
+          "moon_phase": 0.9398629760742188,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-17",
+          "count": 2.0,
+          "moon_phase": 0.9788421630859375,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-18",
+          "count": 3.0,
+          "moon_phase": 0.9974358367919922,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-19",
+          "count": 1.0,
+          "moon_phase": 0.9931773376464844,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-20",
+          "count": 1.0,
+          "moon_phase": 0.9647883605957032,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-21",
+          "count": 3.0,
+          "moon_phase": 0.9125621032714843,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-22",
+          "count": 1.0,
+          "moon_phase": 0.8385269165039062,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-23",
+          "count": 1.0,
+          "moon_phase": 0.7463385009765625,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-24",
+          "count": 1.0,
+          "moon_phase": 0.6409501647949218,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-25",
+          "count": 3.0,
+          "moon_phase": 0.528164176940918,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-27",
+          "count": 2.0,
+          "moon_phase": 0.30512468338012694,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-30",
+          "count": 1.0,
+          "moon_phase": 0.06093526840209961,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-31",
+          "count": 3.0,
+          "moon_phase": 0.019842557907104492,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-01",
+          "count": 4.0,
+          "moon_phase": 0.001826317310333252,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-05",
+          "count": 6.0,
+          "moon_phase": 0.13646092414855956,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-06",
+          "count": 4.0,
+          "moon_phase": 0.20911628723144532,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-07",
+          "count": 2.0,
+          "moon_phase": 0.2914858055114746,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-08",
+          "count": 3.0,
+          "moon_phase": 0.3807878112792969,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-09",
+          "count": 1.0,
+          "moon_phase": 0.47437435150146484,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-10",
+          "count": 3.0,
+          "moon_phase": 0.5696109390258789,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-11",
+          "count": 2.0,
+          "moon_phase": 0.6637036895751953,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-13",
+          "count": 4.0,
+          "moon_phase": 0.8354301452636719,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-14",
+          "count": 2.0,
+          "moon_phase": 0.905315170288086,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-17",
+          "count": 1.0,
+          "moon_phase": 0.9990930938720703,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-04-18",
+          "count": 4.0,
+          "moon_phase": 0.9802689361572265,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-04-19",
+          "count": 1.0,
+          "moon_phase": 0.9346587371826172,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-23",
+          "count": 3.0,
+          "moon_phase": 0.5579387664794921,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-24",
+          "count": 4.0,
+          "moon_phase": 0.44457149505615234,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-25",
+          "count": 2.0,
+          "moon_phase": 0.3358576202392578,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-27",
+          "count": 1.0,
+          "moon_phase": 0.15195064544677733,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-28",
+          "count": 1.0,
+          "moon_phase": 0.08414552688598632,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-29",
+          "count": 2.0,
+          "moon_phase": 0.03567190885543823,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-30",
+          "count": 4.0,
+          "moon_phase": 0.007665703892707825,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-01",
+          "count": 2.0,
+          "moon_phase": 0.0002807131037116051,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-02",
+          "count": 1.0,
+          "moon_phase": 0.012804042100906372,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-03",
+          "count": 4.0,
+          "moon_phase": 0.04383209228515625,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-04",
+          "count": 2.0,
+          "moon_phase": 0.09147924423217774,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-05",
+          "count": 3.0,
+          "moon_phase": 0.1535790729522705,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-06",
+          "count": 1.0,
+          "moon_phase": 0.2278390884399414,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-07",
+          "count": 2.0,
+          "moon_phase": 0.31192142486572266,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-08",
+          "count": 3.0,
+          "moon_phase": 0.40343658447265623,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-09",
+          "count": 2.0,
+          "moon_phase": 0.49985183715820314,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-10",
+          "count": 2.0,
+          "moon_phase": 0.5983280181884766,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-11",
+          "count": 1.0,
+          "moon_phase": 0.6955171966552735,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-12",
+          "count": 2.0,
+          "moon_phase": 0.7873773956298828,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-13",
+          "count": 3.0,
+          "moon_phase": 0.8690973663330078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-14",
+          "count": 3.0,
+          "moon_phase": 0.9352559661865234,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-16",
+          "count": 3.0,
+          "moon_phase": 0.9995471954345703,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-05-17",
+          "count": 1.0,
+          "moon_phase": 0.9899587249755859,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-05-18",
+          "count": 4.0,
+          "moon_phase": 0.9512596130371094,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-05-19",
+          "count": 3.0,
+          "moon_phase": 0.8860613250732422,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-20",
+          "count": 1.0,
+          "moon_phase": 0.7994169616699218,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-21",
+          "count": 2.0,
+          "moon_phase": 0.6978356170654297,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-22",
+          "count": 1.0,
+          "moon_phase": 0.5882048797607422,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-23",
+          "count": 2.0,
+          "moon_phase": 0.4769688415527344,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-24",
+          "count": 1.0,
+          "moon_phase": 0.3696859359741211,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-25",
+          "count": 2.0,
+          "moon_phase": 0.27090394973754883,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-27",
+          "count": 1.0,
+          "moon_phase": 0.11235410690307618,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-28",
+          "count": 3.0,
+          "moon_phase": 0.0573143196105957,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-29",
+          "count": 5.0,
+          "moon_phase": 0.020386643409729004,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-30",
+          "count": 4.0,
+          "moon_phase": 0.002208910882472992,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-31",
+          "count": 2.0,
+          "moon_phase": 0.0028032425045967104,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-01",
+          "count": 2.0,
+          "moon_phase": 0.021635417938232423,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-02",
+          "count": 3.0,
+          "moon_phase": 0.05769943237304687,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-04",
+          "count": 1.0,
+          "moon_phase": 0.1757269287109375,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-05",
+          "count": 4.0,
+          "moon_phase": 0.2541461944580078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-06",
+          "count": 3.0,
+          "moon_phase": 0.3427643585205078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-07",
+          "count": 1.0,
+          "moon_phase": 0.43916893005371094,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-08",
+          "count": 3.0,
+          "moon_phase": 0.5404912567138672,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-09",
+          "count": 1.0,
+          "moon_phase": 0.6431972503662109,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-10",
+          "count": 5.0,
+          "moon_phase": 0.7428800964355469,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-11",
+          "count": 4.0,
+          "moon_phase": 0.834164047241211,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-12",
+          "count": 3.0,
+          "moon_phase": 0.9108775329589843,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-15",
+          "count": 5.0,
+          "moon_phase": 0.9952613830566406,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-06-16",
+          "count": 2.0,
+          "moon_phase": 0.9642070770263672,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-06-17",
+          "count": 4.0,
+          "moon_phase": 0.9055612182617188,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-18",
+          "count": 2.0,
+          "moon_phase": 0.8246724700927734,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-19",
+          "count": 3.0,
+          "moon_phase": 0.7282382202148437,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-20",
+          "count": 6.0,
+          "moon_phase": 0.6231027984619141,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-22",
+          "count": 1.0,
+          "moon_phase": 0.4103773880004883,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-23",
+          "count": 3.0,
+          "moon_phase": 0.3120217704772949,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-24",
+          "count": 5.0,
+          "moon_phase": 0.22358186721801757,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-25",
+          "count": 2.0,
+          "moon_phase": 0.14758106231689452,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-26",
+          "count": 3.0,
+          "moon_phase": 0.08600664138793945,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-28",
+          "count": 1.0,
+          "moon_phase": 0.011869227886199952,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-29",
+          "count": 1.0,
+          "moon_phase": 0.0011123932152986528,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-30",
+          "count": 5.0,
+          "moon_phase": 0.008367860913276673,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-01",
+          "count": 6.0,
+          "moon_phase": 0.03342242002487183,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-02",
+          "count": 2.0,
+          "moon_phase": 0.07561943054199219,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-03",
+          "count": 4.0,
+          "moon_phase": 0.1338831901550293,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-04",
+          "count": 1.0,
+          "moon_phase": 0.20673809051513672,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-05",
+          "count": 4.0,
+          "moon_phase": 0.29229642868041994,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-06",
+          "count": 2.0,
+          "moon_phase": 0.3881903839111328,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-07",
+          "count": 3.0,
+          "moon_phase": 0.4914360809326172,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-08",
+          "count": 1.0,
+          "moon_phase": 0.5982443237304688,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-09",
+          "count": 1.0,
+          "moon_phase": 0.703835220336914,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-11",
+          "count": 4.0,
+          "moon_phase": 0.8872174835205078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-12",
+          "count": 1.0,
+          "moon_phase": 0.9515586090087891,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-07-14",
+          "count": 1.0,
+          "moon_phase": 0.9976497650146484,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-07-15",
+          "count": 1.0,
+          "moon_phase": 0.9753197479248047,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-07-16",
+          "count": 2.0,
+          "moon_phase": 0.9252967834472656,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-17",
+          "count": 5.0,
+          "moon_phase": 0.852719497680664,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-18",
+          "count": 2.0,
+          "moon_phase": 0.7639230346679687,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-19",
+          "count": 1.0,
+          "moon_phase": 0.665291519165039,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-20",
+          "count": 2.0,
+          "moon_phase": 0.5625193786621093,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-21",
+          "count": 2.0,
+          "moon_phase": 0.46032470703125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-22",
+          "count": 4.0,
+          "moon_phase": 0.3624845886230469,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-23",
+          "count": 1.0,
+          "moon_phase": 0.2720256614685059,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-24",
+          "count": 4.0,
+          "moon_phase": 0.19144214630126954,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-25",
+          "count": 2.0,
+          "moon_phase": 0.12286980628967285,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-26",
+          "count": 1.0,
+          "moon_phase": 0.06818586826324463,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-27",
+          "count": 5.0,
+          "moon_phase": 0.029033007621765135,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-28",
+          "count": 1.0,
+          "moon_phase": 0.006780937910079956,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-30",
+          "count": 2.0,
+          "moon_phase": 0.01661598086357117,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-31",
+          "count": 4.0,
+          "moon_phase": 0.049340405464172364,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-01",
+          "count": 3.0,
+          "moon_phase": 0.10010284423828125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-02",
+          "count": 2.0,
+          "moon_phase": 0.1677689743041992,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-03",
+          "count": 3.0,
+          "moon_phase": 0.2505554962158203,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-04",
+          "count": 2.0,
+          "moon_phase": 0.34597537994384764,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-05",
+          "count": 1.0,
+          "moon_phase": 0.45074607849121096,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-06",
+          "count": 6.0,
+          "moon_phase": 0.5606701278686523,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-07",
+          "count": 3.0,
+          "moon_phase": 0.6705422973632813,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-08",
+          "count": 1.0,
+          "moon_phase": 0.7741947174072266,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-09",
+          "count": 1.0,
+          "moon_phase": 0.8648246002197265,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-10",
+          "count": 1.0,
+          "moon_phase": 0.9357083892822265,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-11",
+          "count": 2.0,
+          "moon_phase": 0.9812451934814453,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-08-12",
+          "count": 3.0,
+          "moon_phase": 0.9980377960205078,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-08-13",
+          "count": 4.0,
+          "moon_phase": 0.9855710601806641,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-08-14",
+          "count": 6.0,
+          "moon_phase": 0.9461721801757812,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-15",
+          "count": 1.0,
+          "moon_phase": 0.8842862701416015,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-16",
+          "count": 3.0,
+          "moon_phase": 0.8054206848144532,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-17",
+          "count": 3.0,
+          "moon_phase": 0.7151788330078125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-19",
+          "count": 2.0,
+          "moon_phase": 0.5200776672363281,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-21",
+          "count": 3.0,
+          "moon_phase": 0.33048831939697265,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-22",
+          "count": 2.0,
+          "moon_phase": 0.244973087310791,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-23",
+          "count": 4.0,
+          "moon_phase": 0.168869571685791,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-24",
+          "count": 1.0,
+          "moon_phase": 0.10446049690246582,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-26",
+          "count": 3.0,
+          "moon_phase": 0.019528539180755616,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-27",
+          "count": 4.0,
+          "moon_phase": 0.0030055320262908935,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-28",
+          "count": 3.0,
+          "moon_phase": 0.005867097973823548,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-30",
+          "count": 2.0,
+          "moon_phase": 0.07234133720397949,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-31",
+          "count": 2.0,
+          "moon_phase": 0.13515183448791504,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-01",
+          "count": 2.0,
+          "moon_phase": 0.21555179595947266,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-02",
+          "count": 3.0,
+          "moon_phase": 0.31070159912109374,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-03",
+          "count": 6.0,
+          "moon_phase": 0.41677127838134764,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-04",
+          "count": 4.0,
+          "moon_phase": 0.528972396850586,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-05",
+          "count": 2.0,
+          "moon_phase": 0.6416416931152343,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-06",
+          "count": 2.0,
+          "moon_phase": 0.7484467315673828,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-07",
+          "count": 1.0,
+          "moon_phase": 0.8427980041503906,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-08",
+          "count": 2.0,
+          "moon_phase": 0.9185055541992188,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-09",
+          "count": 7.0,
+          "moon_phase": 0.9705979156494141,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-10",
+          "count": 2.0,
+          "moon_phase": 0.9960800933837891,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-11",
+          "count": 2.0,
+          "moon_phase": 0.9943511962890625,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-13",
+          "count": 5.0,
+          "moon_phase": 0.9177881622314453,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-14",
+          "count": 3.0,
+          "moon_phase": 0.8507835388183593,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-15",
+          "count": 2.0,
+          "moon_phase": 0.7707103729248047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-16",
+          "count": 1.0,
+          "moon_phase": 0.6819019317626953,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-17",
+          "count": 3.0,
+          "moon_phase": 0.5881742477416992,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-18",
+          "count": 6.0,
+          "moon_phase": 0.4928114318847656,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-19",
+          "count": 1.0,
+          "moon_phase": 0.3986887741088867,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-20",
+          "count": 1.0,
+          "moon_phase": 0.30845399856567385,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-21",
+          "count": 2.0,
+          "moon_phase": 0.22470901489257813,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-22",
+          "count": 1.0,
+          "moon_phase": 0.15014699935913087,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-23",
+          "count": 4.0,
+          "moon_phase": 0.08761044502258301,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-24",
+          "count": 6.0,
+          "moon_phase": 0.04004156112670899,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-25",
+          "count": 2.0,
+          "moon_phase": 0.010309821367263794,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-26",
+          "count": 1.0,
+          "moon_phase": 0.0009249860048294068,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-27",
+          "count": 3.0,
+          "moon_phase": 0.013677959442138671,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-28",
+          "count": 2.0,
+          "moon_phase": 0.04928514003753662,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-29",
+          "count": 1.0,
+          "moon_phase": 0.10712437629699707,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-01",
+          "count": 4.0,
+          "moon_phase": 0.2798526954650879,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-02",
+          "count": 1.0,
+          "moon_phase": 0.3866792297363281,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-03",
+          "count": 1.0,
+          "moon_phase": 0.5001035308837891,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-04",
+          "count": 1.0,
+          "moon_phase": 0.6140585327148438,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-06",
+          "count": 3.0,
+          "moon_phase": 0.8186949157714843,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-08",
+          "count": 1.0,
+          "moon_phase": 0.9559044647216797,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-10-09",
+          "count": 1.0,
+          "moon_phase": 0.9899760437011719,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-10-10",
+          "count": 1.0,
+          "moon_phase": 0.9994287109375,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-10-11",
+          "count": 4.0,
+          "moon_phase": 0.9852324676513672,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-10-13",
+          "count": 4.0,
+          "moon_phase": 0.8960550689697265,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-14",
+          "count": 1.0,
+          "moon_phase": 0.8277869415283203,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-15",
+          "count": 5.0,
+          "moon_phase": 0.7484105682373047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-16",
+          "count": 3.0,
+          "moon_phase": 0.6611786651611328,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-17",
+          "count": 4.0,
+          "moon_phase": 0.5690428161621094,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-18",
+          "count": 1.0,
+          "moon_phase": 0.4747251892089844,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-20",
+          "count": 1.0,
+          "moon_phase": 0.2902194595336914,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-21",
+          "count": 2.0,
+          "moon_phase": 0.20579957962036133,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-22",
+          "count": 4.0,
+          "moon_phase": 0.1310137367248535,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-23",
+          "count": 8.0,
+          "moon_phase": 0.0696362590789795,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-24",
+          "count": 3.0,
+          "moon_phase": 0.025618996620178223,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-25",
+          "count": 1.0,
+          "moon_phase": 0.002691957950592041,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-26",
+          "count": 3.0,
+          "moon_phase": 0.003792281150817871,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-27",
+          "count": 1.0,
+          "moon_phase": 0.03044660806655884,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-28",
+          "count": 1.0,
+          "moon_phase": 0.08229764938354492,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-29",
+          "count": 5.0,
+          "moon_phase": 0.15694849014282228,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-30",
+          "count": 1.0,
+          "moon_phase": 0.25018423080444335,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-31",
+          "count": 1.0,
+          "moon_phase": 0.35648269653320314,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-02",
+          "count": 1.0,
+          "moon_phase": 0.5833235549926757,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-03",
+          "count": 2.0,
+          "moon_phase": 0.691547622680664,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-04",
+          "count": 5.0,
+          "moon_phase": 0.7889550018310547,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-05",
+          "count": 1.0,
+          "moon_phase": 0.8710723876953125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-06",
+          "count": 3.0,
+          "moon_phase": 0.9344970703125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-07",
+          "count": 1.0,
+          "moon_phase": 0.9770352172851563,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-11-08",
+          "count": 1.0,
+          "moon_phase": 0.9977565002441406,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-11-09",
+          "count": 2.0,
+          "moon_phase": 0.9969293212890625,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-11-10",
+          "count": 5.0,
+          "moon_phase": 0.9758347320556641,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-11-11",
+          "count": 2.0,
+          "moon_phase": 0.936490478515625,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-12",
+          "count": 1.0,
+          "moon_phase": 0.8813488006591796,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-13",
+          "count": 4.0,
+          "moon_phase": 0.8130311584472656,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-14",
+          "count": 5.0,
+          "moon_phase": 0.7341471099853516,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-15",
+          "count": 1.0,
+          "moon_phase": 0.6472185516357422,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-16",
+          "count": 2.0,
+          "moon_phase": 0.5547080230712891,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-17",
+          "count": 2.0,
+          "moon_phase": 0.45913555145263674,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-18",
+          "count": 1.0,
+          "moon_phase": 0.3632588195800781,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-20",
+          "count": 2.0,
+          "moon_phase": 0.18401546478271485,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-21",
+          "count": 2.0,
+          "moon_phase": 0.10895862579345703,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-22",
+          "count": 3.0,
+          "moon_phase": 0.05010223865509033,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-24",
+          "count": 2.0,
+          "moon_phase": 0.00024808544665575025,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-25",
+          "count": 1.0,
+          "moon_phase": 0.015985058546066286,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-26",
+          "count": 5.0,
+          "moon_phase": 0.05970687866210937,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-28",
+          "count": 3.0,
+          "moon_phase": 0.21824047088623047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-29",
+          "count": 2.0,
+          "moon_phase": 0.32182456970214846,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-01",
+          "count": 1.0,
+          "moon_phase": 0.5447134399414062,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-02",
+          "count": 3.0,
+          "moon_phase": 0.6519923400878906,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-03",
+          "count": 2.0,
+          "moon_phase": 0.7499286651611328,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-05",
+          "count": 1.0,
+          "moon_phase": 0.9036952972412109,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-06",
+          "count": 4.0,
+          "moon_phase": 0.9547019195556641,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-07",
+          "count": 7.0,
+          "moon_phase": 0.9866485595703125,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-08",
+          "count": 1.0,
+          "moon_phase": 0.999180908203125,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-09",
+          "count": 1.0,
+          "moon_phase": 0.9926681518554688,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-10",
+          "count": 2.0,
+          "moon_phase": 0.9680889129638672,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-11",
+          "count": 3.0,
+          "moon_phase": 0.9268851470947266,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-12",
+          "count": 1.0,
+          "moon_phase": 0.8708065795898438,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-13",
+          "count": 2.0,
+          "moon_phase": 0.8017816925048828,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-14",
+          "count": 3.0,
+          "moon_phase": 0.7218418884277343,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-15",
+          "count": 1.0,
+          "moon_phase": 0.6331217193603516,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-16",
+          "count": 7.0,
+          "moon_phase": 0.5379436111450195,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-17",
+          "count": 1.0,
+          "moon_phase": 0.4389838790893555,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-19",
+          "count": 1.0,
+          "moon_phase": 0.24354305267333984,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-20",
+          "count": 1.0,
+          "moon_phase": 0.15611929893493653,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-21",
+          "count": 2.0,
+          "moon_phase": 0.08304131507873536,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-22",
+          "count": 3.0,
+          "moon_phase": 0.03042231559753418,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-23",
+          "count": 2.0,
+          "moon_phase": 0.0037008896470069885,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-24",
+          "count": 1.0,
+          "moon_phase": 0.006415510177612304,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-25",
+          "count": 3.0,
+          "moon_phase": 0.03918908834457398,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-26",
+          "count": 1.0,
+          "moon_phase": 0.09942338943481445,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-28",
+          "count": 1.0,
+          "moon_phase": 0.2798464012145996,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-29",
+          "count": 2.0,
+          "moon_phase": 0.38637256622314453,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-30",
+          "count": 2.0,
+          "moon_phase": 0.49513252258300783,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-31",
+          "count": 2.0,
+          "moon_phase": 0.6008313369750976,
+          "is_full_moon": false
+        }
+      ],
+      "full_moon_stats": {
+        "full_moon_days_count": 40,
+        "non_full_moon_days_count": 264,
+        "full_moon_total_crimes": 98.0,
+        "non_full_moon_total_crimes": 637.0,
+        "full_moon_avg_crimes": 2.45,
+        "non_full_moon_avg_crimes": 2.412878787878788,
+        "full_moon_rate": 2.45,
+        "non_full_moon_rate": 2.412878787878788,
+        "full_moon_proportion": 0.13157894736842105,
+        "non_full_moon_proportion": 0.868421052631579,
+        "normalized_full_moon_rate": 18.62,
+        "normalized_non_full_moon_rate": 2.778466483011938,
+        "percent_difference": 570.1538461538461,
+        "t_statistic": 18.72630103723105,
+        "p_value": 1.807680014632674e-52
+      }
+    },
+    "NYC": {
+      "correlation": -0.11826086715052363,
+      "p_value": 0.061893966760954267,
+      "daily_data": [
+        {
+          "date": "2022-01-01",
+          "count": 2.0,
+          "moon_phase": 0.04739161491394043,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-02",
+          "count": 2.0,
+          "moon_phase": 0.009628596305847168,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-05",
+          "count": 1.0,
+          "moon_phase": 0.07293322563171387,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-06",
+          "count": 2.0,
+          "moon_phase": 0.1436216926574707,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-07",
+          "count": 1.0,
+          "moon_phase": 0.22981023788452148,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-09",
+          "count": 2.0,
+          "moon_phase": 0.4253451538085937,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-10",
+          "count": 1.0,
+          "moon_phase": 0.525128173828125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-13",
+          "count": 2.0,
+          "moon_phase": 0.7925497436523438,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-14",
+          "count": 1.0,
+          "moon_phase": 0.8629486846923828,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-15",
+          "count": 2.0,
+          "moon_phase": 0.9205168151855468,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-16",
+          "count": 1.0,
+          "moon_phase": 0.96338623046875,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-17",
+          "count": 1.0,
+          "moon_phase": 0.9898756408691406,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-18",
+          "count": 1.0,
+          "moon_phase": 0.9986019897460937,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-21",
+          "count": 2.0,
+          "moon_phase": 0.9116497039794922,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-22",
+          "count": 2.0,
+          "moon_phase": 0.8459681701660157,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-23",
+          "count": 1.0,
+          "moon_phase": 0.7642797088623047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-25",
+          "count": 1.0,
+          "moon_phase": 0.5641053771972656,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-28",
+          "count": 1.0,
+          "moon_phase": 0.23754257202148438,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-29",
+          "count": 3.0,
+          "moon_phase": 0.14521056175231933,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-31",
+          "count": 2.0,
+          "moon_phase": 0.023405370712280275,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-01",
+          "count": 3.0,
+          "moon_phase": 0.002535635828971863,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-05",
+          "count": 1.0,
+          "moon_phase": 0.17258068084716796,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-06",
+          "count": 2.0,
+          "moon_phase": 0.25766046524047853,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-07",
+          "count": 4.0,
+          "moon_phase": 0.3500767517089844,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-09",
+          "count": 1.0,
+          "moon_phase": 0.5415545654296875,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-10",
+          "count": 2.0,
+          "moon_phase": 0.6344375228881836,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-11",
+          "count": 2.0,
+          "moon_phase": 0.7219344329833984,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-12",
+          "count": 2.0,
+          "moon_phase": 0.8016221618652344,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-13",
+          "count": 1.0,
+          "moon_phase": 0.8710622406005859,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-14",
+          "count": 1.0,
+          "moon_phase": 0.9277555084228516,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-15",
+          "count": 1.0,
+          "moon_phase": 0.9691942596435547,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-02-16",
+          "count": 1.0,
+          "moon_phase": 0.9930127716064453,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-02-17",
+          "count": 1.0,
+          "moon_phase": 0.9972190856933594,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-02-19",
+          "count": 1.0,
+          "moon_phase": 0.9423248291015625,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-21",
+          "count": 2.0,
+          "moon_phase": 0.8056842803955078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-24",
+          "count": 2.0,
+          "moon_phase": 0.49445613861083987,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-25",
+          "count": 1.0,
+          "moon_phase": 0.381282958984375,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-26",
+          "count": 1.0,
+          "moon_phase": 0.2733473014831543,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-27",
+          "count": 1.0,
+          "moon_phase": 0.17695241928100586,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-03",
+          "count": 1.0,
+          "moon_phase": 0.002597742974758148,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-04",
+          "count": 1.0,
+          "moon_phase": 0.02102485179901123,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-05",
+          "count": 3.0,
+          "moon_phase": 0.061381382942199705,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-07",
+          "count": 2.0,
+          "moon_phase": 0.19275144577026368,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-08",
+          "count": 1.0,
+          "moon_phase": 0.27581125259399414,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-10",
+          "count": 4.0,
+          "moon_phase": 0.45897754669189456,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-12",
+          "count": 1.0,
+          "moon_phase": 0.6454483795166016,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-13",
+          "count": 1.0,
+          "moon_phase": 0.7332389831542969,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-14",
+          "count": 1.0,
+          "moon_phase": 0.8136788940429688,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-15",
+          "count": 2.0,
+          "moon_phase": 0.8836682891845703,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-16",
+          "count": 2.0,
+          "moon_phase": 0.9398629760742188,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-17",
+          "count": 1.0,
+          "moon_phase": 0.9788421630859375,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-18",
+          "count": 2.0,
+          "moon_phase": 0.9974358367919922,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-19",
+          "count": 2.0,
+          "moon_phase": 0.9931773376464844,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-24",
+          "count": 1.0,
+          "moon_phase": 0.6409501647949218,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-25",
+          "count": 1.0,
+          "moon_phase": 0.528164176940918,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-26",
+          "count": 3.0,
+          "moon_phase": 0.41417034149169923,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-27",
+          "count": 2.0,
+          "moon_phase": 0.30512468338012694,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-28",
+          "count": 1.0,
+          "moon_phase": 0.20677051544189454,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-31",
+          "count": 2.0,
+          "moon_phase": 0.019842557907104492,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-01",
+          "count": 1.0,
+          "moon_phase": 0.001826317310333252,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-03",
+          "count": 2.0,
+          "moon_phase": 0.032170631885528565,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-04",
+          "count": 2.0,
+          "moon_phase": 0.07646819591522216,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-07",
+          "count": 1.0,
+          "moon_phase": 0.2914858055114746,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-08",
+          "count": 1.0,
+          "moon_phase": 0.3807878112792969,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-09",
+          "count": 2.0,
+          "moon_phase": 0.47437435150146484,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-10",
+          "count": 1.0,
+          "moon_phase": 0.5696109390258789,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-12",
+          "count": 3.0,
+          "moon_phase": 0.7535164642333985,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-15",
+          "count": 1.0,
+          "moon_phase": 0.9586980438232422,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-04-16",
+          "count": 3.0,
+          "moon_phase": 0.9911795043945313,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-04-18",
+          "count": 2.0,
+          "moon_phase": 0.9802689361572265,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-04-21",
+          "count": 1.0,
+          "moon_phase": 0.7744146728515625,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-22",
+          "count": 1.0,
+          "moon_phase": 0.6700370788574219,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-23",
+          "count": 1.0,
+          "moon_phase": 0.5579387664794921,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-24",
+          "count": 1.0,
+          "moon_phase": 0.44457149505615234,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-25",
+          "count": 2.0,
+          "moon_phase": 0.3358576202392578,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-27",
+          "count": 1.0,
+          "moon_phase": 0.15195064544677733,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-29",
+          "count": 2.0,
+          "moon_phase": 0.03567190885543823,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-30",
+          "count": 2.0,
+          "moon_phase": 0.007665703892707825,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-01",
+          "count": 1.0,
+          "moon_phase": 0.0002807131037116051,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-02",
+          "count": 1.0,
+          "moon_phase": 0.012804042100906372,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-03",
+          "count": 1.0,
+          "moon_phase": 0.04383209228515625,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-04",
+          "count": 2.0,
+          "moon_phase": 0.09147924423217774,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-05",
+          "count": 2.0,
+          "moon_phase": 0.1535790729522705,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-06",
+          "count": 2.0,
+          "moon_phase": 0.2278390884399414,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-07",
+          "count": 1.0,
+          "moon_phase": 0.31192142486572266,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-09",
+          "count": 2.0,
+          "moon_phase": 0.49985183715820314,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-10",
+          "count": 1.0,
+          "moon_phase": 0.5983280181884766,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-11",
+          "count": 1.0,
+          "moon_phase": 0.6955171966552735,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-12",
+          "count": 1.0,
+          "moon_phase": 0.7873773956298828,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-13",
+          "count": 1.0,
+          "moon_phase": 0.8690973663330078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-14",
+          "count": 2.0,
+          "moon_phase": 0.9352559661865234,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-15",
+          "count": 4.0,
+          "moon_phase": 0.9803273010253907,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-05-16",
+          "count": 4.0,
+          "moon_phase": 0.9995471954345703,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-05-18",
+          "count": 3.0,
+          "moon_phase": 0.9512596130371094,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-05-20",
+          "count": 2.0,
+          "moon_phase": 0.7994169616699218,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-21",
+          "count": 1.0,
+          "moon_phase": 0.6978356170654297,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-22",
+          "count": 3.0,
+          "moon_phase": 0.5882048797607422,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-24",
+          "count": 1.0,
+          "moon_phase": 0.3696859359741211,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-25",
+          "count": 5.0,
+          "moon_phase": 0.27090394973754883,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-27",
+          "count": 1.0,
+          "moon_phase": 0.11235410690307618,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-28",
+          "count": 2.0,
+          "moon_phase": 0.0573143196105957,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-29",
+          "count": 2.0,
+          "moon_phase": 0.020386643409729004,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-31",
+          "count": 2.0,
+          "moon_phase": 0.0028032425045967104,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-01",
+          "count": 1.0,
+          "moon_phase": 0.021635417938232423,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-02",
+          "count": 1.0,
+          "moon_phase": 0.05769943237304687,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-04",
+          "count": 1.0,
+          "moon_phase": 0.1757269287109375,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-05",
+          "count": 1.0,
+          "moon_phase": 0.2541461944580078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-06",
+          "count": 1.0,
+          "moon_phase": 0.3427643585205078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-08",
+          "count": 1.0,
+          "moon_phase": 0.5404912567138672,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-09",
+          "count": 1.0,
+          "moon_phase": 0.6431972503662109,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-10",
+          "count": 2.0,
+          "moon_phase": 0.7428800964355469,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-11",
+          "count": 1.0,
+          "moon_phase": 0.834164047241211,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-12",
+          "count": 1.0,
+          "moon_phase": 0.9108775329589843,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-13",
+          "count": 1.0,
+          "moon_phase": 0.9666462707519531,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-06-16",
+          "count": 1.0,
+          "moon_phase": 0.9642070770263672,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-06-18",
+          "count": 2.0,
+          "moon_phase": 0.8246724700927734,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-19",
+          "count": 2.0,
+          "moon_phase": 0.7282382202148437,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-20",
+          "count": 1.0,
+          "moon_phase": 0.6231027984619141,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-21",
+          "count": 1.0,
+          "moon_phase": 0.5154362869262695,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-24",
+          "count": 5.0,
+          "moon_phase": 0.22358186721801757,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-25",
+          "count": 3.0,
+          "moon_phase": 0.14758106231689452,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-27",
+          "count": 1.0,
+          "moon_phase": 0.04039685249328613,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-28",
+          "count": 1.0,
+          "moon_phase": 0.011869227886199952,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-29",
+          "count": 3.0,
+          "moon_phase": 0.0011123932152986528,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-30",
+          "count": 3.0,
+          "moon_phase": 0.008367860913276673,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-01",
+          "count": 1.0,
+          "moon_phase": 0.03342242002487183,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-02",
+          "count": 4.0,
+          "moon_phase": 0.07561943054199219,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-04",
+          "count": 3.0,
+          "moon_phase": 0.20673809051513672,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-05",
+          "count": 2.0,
+          "moon_phase": 0.29229642868041994,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-06",
+          "count": 3.0,
+          "moon_phase": 0.3881903839111328,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-09",
+          "count": 2.0,
+          "moon_phase": 0.703835220336914,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-10",
+          "count": 1.0,
+          "moon_phase": 0.8023770904541015,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-11",
+          "count": 2.0,
+          "moon_phase": 0.8872174835205078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-12",
+          "count": 3.0,
+          "moon_phase": 0.9515586090087891,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-07-13",
+          "count": 3.0,
+          "moon_phase": 0.9895696258544922,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-07-14",
+          "count": 1.0,
+          "moon_phase": 0.9976497650146484,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-07-15",
+          "count": 3.0,
+          "moon_phase": 0.9753197479248047,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-07-17",
+          "count": 2.0,
+          "moon_phase": 0.852719497680664,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-18",
+          "count": 1.0,
+          "moon_phase": 0.7639230346679687,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-19",
+          "count": 3.0,
+          "moon_phase": 0.665291519165039,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-21",
+          "count": 2.0,
+          "moon_phase": 0.46032470703125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-22",
+          "count": 2.0,
+          "moon_phase": 0.3624845886230469,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-23",
+          "count": 3.0,
+          "moon_phase": 0.2720256614685059,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-24",
+          "count": 3.0,
+          "moon_phase": 0.19144214630126954,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-25",
+          "count": 2.0,
+          "moon_phase": 0.12286980628967285,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-26",
+          "count": 1.0,
+          "moon_phase": 0.06818586826324463,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-27",
+          "count": 1.0,
+          "moon_phase": 0.029033007621765135,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-30",
+          "count": 2.0,
+          "moon_phase": 0.01661598086357117,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-31",
+          "count": 1.0,
+          "moon_phase": 0.049340405464172364,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-01",
+          "count": 3.0,
+          "moon_phase": 0.10010284423828125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-04",
+          "count": 2.0,
+          "moon_phase": 0.34597537994384764,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-05",
+          "count": 1.0,
+          "moon_phase": 0.45074607849121096,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-06",
+          "count": 4.0,
+          "moon_phase": 0.5606701278686523,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-07",
+          "count": 1.0,
+          "moon_phase": 0.6705422973632813,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-11",
+          "count": 1.0,
+          "moon_phase": 0.9812451934814453,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-08-12",
+          "count": 1.0,
+          "moon_phase": 0.9980377960205078,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-08-13",
+          "count": 2.0,
+          "moon_phase": 0.9855710601806641,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-08-15",
+          "count": 1.0,
+          "moon_phase": 0.8842862701416015,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-19",
+          "count": 1.0,
+          "moon_phase": 0.5200776672363281,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-20",
+          "count": 1.0,
+          "moon_phase": 0.4230462646484375,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-22",
+          "count": 1.0,
+          "moon_phase": 0.244973087310791,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-24",
+          "count": 1.0,
+          "moon_phase": 0.10446049690246582,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-25",
+          "count": 1.0,
+          "moon_phase": 0.0539738130569458,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-26",
+          "count": 1.0,
+          "moon_phase": 0.019528539180755616,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-27",
+          "count": 6.0,
+          "moon_phase": 0.0030055320262908935,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-28",
+          "count": 2.0,
+          "moon_phase": 0.005867097973823548,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-31",
+          "count": 4.0,
+          "moon_phase": 0.13515183448791504,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-01",
+          "count": 4.0,
+          "moon_phase": 0.21555179595947266,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-02",
+          "count": 1.0,
+          "moon_phase": 0.31070159912109374,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-03",
+          "count": 1.0,
+          "moon_phase": 0.41677127838134764,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-05",
+          "count": 1.0,
+          "moon_phase": 0.6416416931152343,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-07",
+          "count": 4.0,
+          "moon_phase": 0.8427980041503906,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-09",
+          "count": 1.0,
+          "moon_phase": 0.9705979156494141,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-10",
+          "count": 2.0,
+          "moon_phase": 0.9960800933837891,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-11",
+          "count": 2.0,
+          "moon_phase": 0.9943511962890625,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-12",
+          "count": 3.0,
+          "moon_phase": 0.967108383178711,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-14",
+          "count": 1.0,
+          "moon_phase": 0.8507835388183593,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-15",
+          "count": 1.0,
+          "moon_phase": 0.7707103729248047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-16",
+          "count": 1.0,
+          "moon_phase": 0.6819019317626953,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-17",
+          "count": 1.0,
+          "moon_phase": 0.5881742477416992,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-18",
+          "count": 2.0,
+          "moon_phase": 0.4928114318847656,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-19",
+          "count": 1.0,
+          "moon_phase": 0.3986887741088867,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-20",
+          "count": 2.0,
+          "moon_phase": 0.30845399856567385,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-21",
+          "count": 3.0,
+          "moon_phase": 0.22470901489257813,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-24",
+          "count": 4.0,
+          "moon_phase": 0.04004156112670899,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-25",
+          "count": 4.0,
+          "moon_phase": 0.010309821367263794,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-28",
+          "count": 1.0,
+          "moon_phase": 0.04928514003753662,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-29",
+          "count": 1.0,
+          "moon_phase": 0.10712437629699707,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-30",
+          "count": 2.0,
+          "moon_phase": 0.18512855529785155,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-05",
+          "count": 1.0,
+          "moon_phase": 0.7222743988037109,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-06",
+          "count": 2.0,
+          "moon_phase": 0.8186949157714843,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-07",
+          "count": 1.0,
+          "moon_phase": 0.8979595184326172,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-08",
+          "count": 1.0,
+          "moon_phase": 0.9559044647216797,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-10-09",
+          "count": 1.0,
+          "moon_phase": 0.9899760437011719,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-10-10",
+          "count": 2.0,
+          "moon_phase": 0.9994287109375,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-10-11",
+          "count": 1.0,
+          "moon_phase": 0.9852324676513672,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-10-12",
+          "count": 1.0,
+          "moon_phase": 0.94971435546875,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-13",
+          "count": 1.0,
+          "moon_phase": 0.8960550689697265,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-14",
+          "count": 2.0,
+          "moon_phase": 0.8277869415283203,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-15",
+          "count": 2.0,
+          "moon_phase": 0.7484105682373047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-16",
+          "count": 1.0,
+          "moon_phase": 0.6611786651611328,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-17",
+          "count": 2.0,
+          "moon_phase": 0.5690428161621094,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-19",
+          "count": 3.0,
+          "moon_phase": 0.38086856842041017,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-22",
+          "count": 2.0,
+          "moon_phase": 0.1310137367248535,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-25",
+          "count": 1.0,
+          "moon_phase": 0.002691957950592041,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-27",
+          "count": 3.0,
+          "moon_phase": 0.03044660806655884,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-28",
+          "count": 1.0,
+          "moon_phase": 0.08229764938354492,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-30",
+          "count": 1.0,
+          "moon_phase": 0.25018423080444335,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-31",
+          "count": 2.0,
+          "moon_phase": 0.35648269653320314,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-01",
+          "count": 1.0,
+          "moon_phase": 0.4696364974975586,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-02",
+          "count": 1.0,
+          "moon_phase": 0.5833235549926757,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-03",
+          "count": 1.0,
+          "moon_phase": 0.691547622680664,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-04",
+          "count": 1.0,
+          "moon_phase": 0.7889550018310547,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-07",
+          "count": 2.0,
+          "moon_phase": 0.9770352172851563,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-11-09",
+          "count": 1.0,
+          "moon_phase": 0.9969293212890625,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-11-10",
+          "count": 1.0,
+          "moon_phase": 0.9758347320556641,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-11-11",
+          "count": 1.0,
+          "moon_phase": 0.936490478515625,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-12",
+          "count": 2.0,
+          "moon_phase": 0.8813488006591796,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-13",
+          "count": 3.0,
+          "moon_phase": 0.8130311584472656,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-14",
+          "count": 1.0,
+          "moon_phase": 0.7341471099853516,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-18",
+          "count": 3.0,
+          "moon_phase": 0.3632588195800781,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-20",
+          "count": 2.0,
+          "moon_phase": 0.18401546478271485,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-21",
+          "count": 1.0,
+          "moon_phase": 0.10895862579345703,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-23",
+          "count": 2.0,
+          "moon_phase": 0.012456178665161133,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-24",
+          "count": 2.0,
+          "moon_phase": 0.00024808544665575025,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-26",
+          "count": 2.0,
+          "moon_phase": 0.05970687866210937,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-27",
+          "count": 2.0,
+          "moon_phase": 0.12876441955566406,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-28",
+          "count": 2.0,
+          "moon_phase": 0.21824047088623047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-30",
+          "count": 1.0,
+          "moon_phase": 0.43278194427490235,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-04",
+          "count": 2.0,
+          "moon_phase": 0.8347772979736328,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-05",
+          "count": 2.0,
+          "moon_phase": 0.9036952972412109,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-06",
+          "count": 3.0,
+          "moon_phase": 0.9547019195556641,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-07",
+          "count": 1.0,
+          "moon_phase": 0.9866485595703125,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-08",
+          "count": 2.0,
+          "moon_phase": 0.999180908203125,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-11",
+          "count": 1.0,
+          "moon_phase": 0.9268851470947266,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-13",
+          "count": 2.0,
+          "moon_phase": 0.8017816925048828,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-15",
+          "count": 3.0,
+          "moon_phase": 0.6331217193603516,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-16",
+          "count": 1.0,
+          "moon_phase": 0.5379436111450195,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-17",
+          "count": 1.0,
+          "moon_phase": 0.4389838790893555,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-18",
+          "count": 1.0,
+          "moon_phase": 0.33949687957763675,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-19",
+          "count": 1.0,
+          "moon_phase": 0.24354305267333984,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-20",
+          "count": 1.0,
+          "moon_phase": 0.15611929893493653,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-22",
+          "count": 1.0,
+          "moon_phase": 0.03042231559753418,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-23",
+          "count": 2.0,
+          "moon_phase": 0.0037008896470069885,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-24",
+          "count": 1.0,
+          "moon_phase": 0.006415510177612304,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-26",
+          "count": 4.0,
+          "moon_phase": 0.09942338943481445,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-27",
+          "count": 1.0,
+          "moon_phase": 0.18187902450561524,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-28",
+          "count": 1.0,
+          "moon_phase": 0.2798464012145996,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-29",
+          "count": 2.0,
+          "moon_phase": 0.38637256622314453,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-30",
+          "count": 1.0,
+          "moon_phase": 0.49513252258300783,
+          "is_full_moon": false
+        }
+      ],
+      "full_moon_stats": {
+        "full_moon_days_count": 38,
+        "non_full_moon_days_count": 212,
+        "full_moon_total_crimes": 67.0,
+        "non_full_moon_total_crimes": 366.0,
+        "full_moon_avg_crimes": 1.763157894736842,
+        "non_full_moon_avg_crimes": 1.7264150943396226,
+        "full_moon_rate": 1.763157894736842,
+        "non_full_moon_rate": 1.7264150943396226,
+        "full_moon_proportion": 0.152,
+        "non_full_moon_proportion": 0.848,
+        "normalized_full_moon_rate": 11.59972299168975,
+        "normalized_non_full_moon_rate": 2.0358668565325737,
+        "percent_difference": 469.7682515174909,
+        "t_statistic": 20.832693828233847,
+        "p_value": 2.10907972551966e-56
+      }
+    },
+    "LA": {
+      "correlation": -0.13130713456921175,
+      "p_value": 0.04620573791587404,
+      "daily_data": [
+        {
+          "date": "2022-01-01",
+          "count": 3.0,
+          "moon_phase": 0.04739161491394043,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-03",
+          "count": 3.0,
+          "moon_phase": 0.0017906059324741363,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-04",
+          "count": 1.0,
+          "moon_phase": 0.023911144733428955,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-05",
+          "count": 1.0,
+          "moon_phase": 0.07293322563171387,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-07",
+          "count": 1.0,
+          "moon_phase": 0.22981023788452148,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-08",
+          "count": 1.0,
+          "moon_phase": 0.3254716491699219,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-09",
+          "count": 3.0,
+          "moon_phase": 0.4253451538085937,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-11",
+          "count": 3.0,
+          "moon_phase": 0.6213825225830079,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-12",
+          "count": 1.0,
+          "moon_phase": 0.7113153076171875,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-13",
+          "count": 2.0,
+          "moon_phase": 0.7925497436523438,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-15",
+          "count": 2.0,
+          "moon_phase": 0.9205168151855468,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-16",
+          "count": 1.0,
+          "moon_phase": 0.96338623046875,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-17",
+          "count": 1.0,
+          "moon_phase": 0.9898756408691406,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-18",
+          "count": 2.0,
+          "moon_phase": 0.9986019897460937,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-19",
+          "count": 1.0,
+          "moon_phase": 0.9886170959472657,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-20",
+          "count": 1.0,
+          "moon_phase": 0.9595381164550781,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-01-21",
+          "count": 2.0,
+          "moon_phase": 0.9116497039794922,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-23",
+          "count": 3.0,
+          "moon_phase": 0.7642797088623047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-24",
+          "count": 1.0,
+          "moon_phase": 0.6691757202148437,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-30",
+          "count": 1.0,
+          "moon_phase": 0.07204414367675781,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-01-31",
+          "count": 2.0,
+          "moon_phase": 0.023405370712280275,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-01",
+          "count": 1.0,
+          "moon_phase": 0.002535635828971863,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-02",
+          "count": 1.0,
+          "moon_phase": 0.00997897982597351,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-04",
+          "count": 3.0,
+          "moon_phase": 0.09953042030334473,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-06",
+          "count": 1.0,
+          "moon_phase": 0.25766046524047853,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-07",
+          "count": 1.0,
+          "moon_phase": 0.3500767517089844,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-10",
+          "count": 1.0,
+          "moon_phase": 0.6344375228881836,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-11",
+          "count": 3.0,
+          "moon_phase": 0.7219344329833984,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-15",
+          "count": 2.0,
+          "moon_phase": 0.9691942596435547,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-02-17",
+          "count": 1.0,
+          "moon_phase": 0.9972190856933594,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-02-19",
+          "count": 2.0,
+          "moon_phase": 0.9423248291015625,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-20",
+          "count": 1.0,
+          "moon_phase": 0.8834479522705078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-21",
+          "count": 3.0,
+          "moon_phase": 0.8056842803955078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-22",
+          "count": 1.0,
+          "moon_phase": 0.7120490264892578,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-24",
+          "count": 1.0,
+          "moon_phase": 0.49445613861083987,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-27",
+          "count": 1.0,
+          "moon_phase": 0.17695241928100586,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-02-28",
+          "count": 1.0,
+          "moon_phase": 0.09791229248046875,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-01",
+          "count": 1.0,
+          "moon_phase": 0.040896821022033694,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-02",
+          "count": 1.0,
+          "moon_phase": 0.008838117718696595,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-03",
+          "count": 1.0,
+          "moon_phase": 0.002597742974758148,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-05",
+          "count": 2.0,
+          "moon_phase": 0.061381382942199705,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-07",
+          "count": 2.0,
+          "moon_phase": 0.19275144577026368,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-10",
+          "count": 2.0,
+          "moon_phase": 0.45897754669189456,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-11",
+          "count": 2.0,
+          "moon_phase": 0.5531415176391602,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-12",
+          "count": 1.0,
+          "moon_phase": 0.6454483795166016,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-13",
+          "count": 1.0,
+          "moon_phase": 0.7332389831542969,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-17",
+          "count": 1.0,
+          "moon_phase": 0.9788421630859375,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-18",
+          "count": 2.0,
+          "moon_phase": 0.9974358367919922,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-19",
+          "count": 2.0,
+          "moon_phase": 0.9931773376464844,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-20",
+          "count": 1.0,
+          "moon_phase": 0.9647883605957032,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-03-25",
+          "count": 3.0,
+          "moon_phase": 0.528164176940918,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-28",
+          "count": 1.0,
+          "moon_phase": 0.20677051544189454,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-29",
+          "count": 3.0,
+          "moon_phase": 0.1240822982788086,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-03-31",
+          "count": 2.0,
+          "moon_phase": 0.019842557907104492,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-01",
+          "count": 2.0,
+          "moon_phase": 0.001826317310333252,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-03",
+          "count": 1.0,
+          "moon_phase": 0.032170631885528565,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-04",
+          "count": 1.0,
+          "moon_phase": 0.07646819591522216,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-08",
+          "count": 4.0,
+          "moon_phase": 0.3807878112792969,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-10",
+          "count": 1.0,
+          "moon_phase": 0.5696109390258789,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-11",
+          "count": 3.0,
+          "moon_phase": 0.6637036895751953,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-13",
+          "count": 2.0,
+          "moon_phase": 0.8354301452636719,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-14",
+          "count": 1.0,
+          "moon_phase": 0.905315170288086,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-15",
+          "count": 5.0,
+          "moon_phase": 0.9586980438232422,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-04-16",
+          "count": 1.0,
+          "moon_phase": 0.9911795043945313,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-04-17",
+          "count": 1.0,
+          "moon_phase": 0.9990930938720703,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-04-18",
+          "count": 2.0,
+          "moon_phase": 0.9802689361572265,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-04-19",
+          "count": 1.0,
+          "moon_phase": 0.9346587371826172,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-24",
+          "count": 1.0,
+          "moon_phase": 0.44457149505615234,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-26",
+          "count": 4.0,
+          "moon_phase": 0.236920108795166,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-27",
+          "count": 2.0,
+          "moon_phase": 0.15195064544677733,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-29",
+          "count": 1.0,
+          "moon_phase": 0.03567190885543823,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-04-30",
+          "count": 3.0,
+          "moon_phase": 0.007665703892707825,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-01",
+          "count": 2.0,
+          "moon_phase": 0.0002807131037116051,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-04",
+          "count": 3.0,
+          "moon_phase": 0.09147924423217774,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-05",
+          "count": 3.0,
+          "moon_phase": 0.1535790729522705,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-08",
+          "count": 3.0,
+          "moon_phase": 0.40343658447265623,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-13",
+          "count": 1.0,
+          "moon_phase": 0.8690973663330078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-14",
+          "count": 2.0,
+          "moon_phase": 0.9352559661865234,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-15",
+          "count": 2.0,
+          "moon_phase": 0.9803273010253907,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-05-18",
+          "count": 1.0,
+          "moon_phase": 0.9512596130371094,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-05-19",
+          "count": 1.0,
+          "moon_phase": 0.8860613250732422,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-20",
+          "count": 1.0,
+          "moon_phase": 0.7994169616699218,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-22",
+          "count": 1.0,
+          "moon_phase": 0.5882048797607422,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-24",
+          "count": 1.0,
+          "moon_phase": 0.3696859359741211,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-27",
+          "count": 2.0,
+          "moon_phase": 0.11235410690307618,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-29",
+          "count": 1.0,
+          "moon_phase": 0.020386643409729004,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-05-31",
+          "count": 2.0,
+          "moon_phase": 0.0028032425045967104,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-02",
+          "count": 2.0,
+          "moon_phase": 0.05769943237304687,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-05",
+          "count": 1.0,
+          "moon_phase": 0.2541461944580078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-06",
+          "count": 3.0,
+          "moon_phase": 0.3427643585205078,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-07",
+          "count": 1.0,
+          "moon_phase": 0.43916893005371094,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-08",
+          "count": 2.0,
+          "moon_phase": 0.5404912567138672,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-09",
+          "count": 1.0,
+          "moon_phase": 0.6431972503662109,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-10",
+          "count": 2.0,
+          "moon_phase": 0.7428800964355469,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-11",
+          "count": 4.0,
+          "moon_phase": 0.834164047241211,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-12",
+          "count": 2.0,
+          "moon_phase": 0.9108775329589843,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-13",
+          "count": 2.0,
+          "moon_phase": 0.9666462707519531,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-06-14",
+          "count": 1.0,
+          "moon_phase": 0.9959296417236329,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-06-16",
+          "count": 2.0,
+          "moon_phase": 0.9642070770263672,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-06-17",
+          "count": 1.0,
+          "moon_phase": 0.9055612182617188,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-18",
+          "count": 2.0,
+          "moon_phase": 0.8246724700927734,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-19",
+          "count": 2.0,
+          "moon_phase": 0.7282382202148437,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-20",
+          "count": 1.0,
+          "moon_phase": 0.6231027984619141,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-22",
+          "count": 1.0,
+          "moon_phase": 0.4103773880004883,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-25",
+          "count": 1.0,
+          "moon_phase": 0.14758106231689452,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-26",
+          "count": 1.0,
+          "moon_phase": 0.08600664138793945,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-27",
+          "count": 2.0,
+          "moon_phase": 0.04039685249328613,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-28",
+          "count": 2.0,
+          "moon_phase": 0.011869227886199952,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-06-29",
+          "count": 1.0,
+          "moon_phase": 0.0011123932152986528,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-01",
+          "count": 1.0,
+          "moon_phase": 0.03342242002487183,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-02",
+          "count": 2.0,
+          "moon_phase": 0.07561943054199219,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-03",
+          "count": 4.0,
+          "moon_phase": 0.1338831901550293,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-04",
+          "count": 3.0,
+          "moon_phase": 0.20673809051513672,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-05",
+          "count": 2.0,
+          "moon_phase": 0.29229642868041994,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-08",
+          "count": 2.0,
+          "moon_phase": 0.5982443237304688,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-09",
+          "count": 3.0,
+          "moon_phase": 0.703835220336914,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-10",
+          "count": 2.0,
+          "moon_phase": 0.8023770904541015,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-12",
+          "count": 1.0,
+          "moon_phase": 0.9515586090087891,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-07-15",
+          "count": 1.0,
+          "moon_phase": 0.9753197479248047,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-07-16",
+          "count": 1.0,
+          "moon_phase": 0.9252967834472656,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-17",
+          "count": 1.0,
+          "moon_phase": 0.852719497680664,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-18",
+          "count": 1.0,
+          "moon_phase": 0.7639230346679687,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-19",
+          "count": 1.0,
+          "moon_phase": 0.665291519165039,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-23",
+          "count": 1.0,
+          "moon_phase": 0.2720256614685059,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-24",
+          "count": 4.0,
+          "moon_phase": 0.19144214630126954,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-25",
+          "count": 3.0,
+          "moon_phase": 0.12286980628967285,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-26",
+          "count": 2.0,
+          "moon_phase": 0.06818586826324463,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-27",
+          "count": 3.0,
+          "moon_phase": 0.029033007621765135,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-28",
+          "count": 1.0,
+          "moon_phase": 0.006780937910079956,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-29",
+          "count": 2.0,
+          "moon_phase": 0.002448967099189758,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-30",
+          "count": 1.0,
+          "moon_phase": 0.01661598086357117,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-07-31",
+          "count": 1.0,
+          "moon_phase": 0.049340405464172364,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-01",
+          "count": 3.0,
+          "moon_phase": 0.10010284423828125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-02",
+          "count": 2.0,
+          "moon_phase": 0.1677689743041992,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-03",
+          "count": 4.0,
+          "moon_phase": 0.2505554962158203,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-04",
+          "count": 2.0,
+          "moon_phase": 0.34597537994384764,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-05",
+          "count": 1.0,
+          "moon_phase": 0.45074607849121096,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-07",
+          "count": 2.0,
+          "moon_phase": 0.6705422973632813,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-08",
+          "count": 2.0,
+          "moon_phase": 0.7741947174072266,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-09",
+          "count": 1.0,
+          "moon_phase": 0.8648246002197265,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-10",
+          "count": 1.0,
+          "moon_phase": 0.9357083892822265,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-12",
+          "count": 1.0,
+          "moon_phase": 0.9980377960205078,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-08-13",
+          "count": 1.0,
+          "moon_phase": 0.9855710601806641,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-08-14",
+          "count": 1.0,
+          "moon_phase": 0.9461721801757812,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-15",
+          "count": 2.0,
+          "moon_phase": 0.8842862701416015,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-16",
+          "count": 1.0,
+          "moon_phase": 0.8054206848144532,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-17",
+          "count": 2.0,
+          "moon_phase": 0.7151788330078125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-18",
+          "count": 1.0,
+          "moon_phase": 0.6186337661743164,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-19",
+          "count": 2.0,
+          "moon_phase": 0.5200776672363281,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-20",
+          "count": 2.0,
+          "moon_phase": 0.4230462646484375,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-21",
+          "count": 4.0,
+          "moon_phase": 0.33048831939697265,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-22",
+          "count": 2.0,
+          "moon_phase": 0.244973087310791,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-25",
+          "count": 3.0,
+          "moon_phase": 0.0539738130569458,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-27",
+          "count": 1.0,
+          "moon_phase": 0.0030055320262908935,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-28",
+          "count": 1.0,
+          "moon_phase": 0.005867097973823548,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-08-30",
+          "count": 4.0,
+          "moon_phase": 0.07234133720397949,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-03",
+          "count": 4.0,
+          "moon_phase": 0.41677127838134764,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-04",
+          "count": 2.0,
+          "moon_phase": 0.528972396850586,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-05",
+          "count": 1.0,
+          "moon_phase": 0.6416416931152343,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-06",
+          "count": 3.0,
+          "moon_phase": 0.7484467315673828,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-07",
+          "count": 1.0,
+          "moon_phase": 0.8427980041503906,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-08",
+          "count": 1.0,
+          "moon_phase": 0.9185055541992188,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-09",
+          "count": 1.0,
+          "moon_phase": 0.9705979156494141,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-10",
+          "count": 1.0,
+          "moon_phase": 0.9960800933837891,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-11",
+          "count": 2.0,
+          "moon_phase": 0.9943511962890625,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-12",
+          "count": 1.0,
+          "moon_phase": 0.967108383178711,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-09-13",
+          "count": 2.0,
+          "moon_phase": 0.9177881622314453,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-14",
+          "count": 2.0,
+          "moon_phase": 0.8507835388183593,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-15",
+          "count": 1.0,
+          "moon_phase": 0.7707103729248047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-16",
+          "count": 2.0,
+          "moon_phase": 0.6819019317626953,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-19",
+          "count": 1.0,
+          "moon_phase": 0.3986887741088867,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-21",
+          "count": 1.0,
+          "moon_phase": 0.22470901489257813,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-23",
+          "count": 2.0,
+          "moon_phase": 0.08761044502258301,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-24",
+          "count": 1.0,
+          "moon_phase": 0.04004156112670899,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-25",
+          "count": 4.0,
+          "moon_phase": 0.010309821367263794,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-26",
+          "count": 2.0,
+          "moon_phase": 0.0009249860048294068,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-27",
+          "count": 1.0,
+          "moon_phase": 0.013677959442138671,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-09-29",
+          "count": 1.0,
+          "moon_phase": 0.10712437629699707,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-01",
+          "count": 1.0,
+          "moon_phase": 0.2798526954650879,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-02",
+          "count": 1.0,
+          "moon_phase": 0.3866792297363281,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-03",
+          "count": 2.0,
+          "moon_phase": 0.5001035308837891,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-04",
+          "count": 2.0,
+          "moon_phase": 0.6140585327148438,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-05",
+          "count": 2.0,
+          "moon_phase": 0.7222743988037109,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-06",
+          "count": 1.0,
+          "moon_phase": 0.8186949157714843,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-08",
+          "count": 3.0,
+          "moon_phase": 0.9559044647216797,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-10-12",
+          "count": 1.0,
+          "moon_phase": 0.94971435546875,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-13",
+          "count": 1.0,
+          "moon_phase": 0.8960550689697265,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-14",
+          "count": 1.0,
+          "moon_phase": 0.8277869415283203,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-18",
+          "count": 1.0,
+          "moon_phase": 0.4747251892089844,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-21",
+          "count": 1.0,
+          "moon_phase": 0.20579957962036133,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-23",
+          "count": 1.0,
+          "moon_phase": 0.0696362590789795,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-24",
+          "count": 3.0,
+          "moon_phase": 0.025618996620178223,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-25",
+          "count": 2.0,
+          "moon_phase": 0.002691957950592041,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-28",
+          "count": 2.0,
+          "moon_phase": 0.08229764938354492,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-10-31",
+          "count": 1.0,
+          "moon_phase": 0.35648269653320314,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-02",
+          "count": 3.0,
+          "moon_phase": 0.5833235549926757,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-03",
+          "count": 1.0,
+          "moon_phase": 0.691547622680664,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-06",
+          "count": 2.0,
+          "moon_phase": 0.9344970703125,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-08",
+          "count": 1.0,
+          "moon_phase": 0.9977565002441406,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-11-10",
+          "count": 1.0,
+          "moon_phase": 0.9758347320556641,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-11-11",
+          "count": 1.0,
+          "moon_phase": 0.936490478515625,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-12",
+          "count": 1.0,
+          "moon_phase": 0.8813488006591796,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-14",
+          "count": 5.0,
+          "moon_phase": 0.7341471099853516,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-17",
+          "count": 1.0,
+          "moon_phase": 0.45913555145263674,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-20",
+          "count": 1.0,
+          "moon_phase": 0.18401546478271485,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-21",
+          "count": 1.0,
+          "moon_phase": 0.10895862579345703,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-22",
+          "count": 2.0,
+          "moon_phase": 0.05010223865509033,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-24",
+          "count": 1.0,
+          "moon_phase": 0.00024808544665575025,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-26",
+          "count": 1.0,
+          "moon_phase": 0.05970687866210937,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-27",
+          "count": 3.0,
+          "moon_phase": 0.12876441955566406,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-11-28",
+          "count": 1.0,
+          "moon_phase": 0.21824047088623047,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-02",
+          "count": 1.0,
+          "moon_phase": 0.6519923400878906,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-05",
+          "count": 2.0,
+          "moon_phase": 0.9036952972412109,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-06",
+          "count": 1.0,
+          "moon_phase": 0.9547019195556641,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-07",
+          "count": 1.0,
+          "moon_phase": 0.9866485595703125,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-08",
+          "count": 1.0,
+          "moon_phase": 0.999180908203125,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-09",
+          "count": 1.0,
+          "moon_phase": 0.9926681518554688,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-10",
+          "count": 3.0,
+          "moon_phase": 0.9680889129638672,
+          "is_full_moon": true
+        },
+        {
+          "date": "2022-12-11",
+          "count": 2.0,
+          "moon_phase": 0.9268851470947266,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-13",
+          "count": 1.0,
+          "moon_phase": 0.8017816925048828,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-14",
+          "count": 1.0,
+          "moon_phase": 0.7218418884277343,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-16",
+          "count": 1.0,
+          "moon_phase": 0.5379436111450195,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-19",
+          "count": 1.0,
+          "moon_phase": 0.24354305267333984,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-21",
+          "count": 1.0,
+          "moon_phase": 0.08304131507873536,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-24",
+          "count": 2.0,
+          "moon_phase": 0.006415510177612304,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-26",
+          "count": 1.0,
+          "moon_phase": 0.09942338943481445,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-27",
+          "count": 1.0,
+          "moon_phase": 0.18187902450561524,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-28",
+          "count": 3.0,
+          "moon_phase": 0.2798464012145996,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-29",
+          "count": 1.0,
+          "moon_phase": 0.38637256622314453,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-30",
+          "count": 1.0,
+          "moon_phase": 0.49513252258300783,
+          "is_full_moon": false
+        },
+        {
+          "date": "2022-12-31",
+          "count": 1.0,
+          "moon_phase": 0.6008313369750976,
+          "is_full_moon": false
+        }
+      ],
+      "full_moon_stats": {
+        "full_moon_days_count": 36,
+        "non_full_moon_days_count": 195,
+        "full_moon_total_crimes": 53.0,
+        "non_full_moon_total_crimes": 339.0,
+        "full_moon_avg_crimes": 1.4722222222222223,
+        "non_full_moon_avg_crimes": 1.7384615384615385,
+        "full_moon_rate": 1.4722222222222223,
+        "non_full_moon_rate": 1.7384615384615385,
+        "full_moon_proportion": 0.15584415584415584,
+        "non_full_moon_proportion": 0.8441558441558441,
+        "normalized_full_moon_rate": 9.44675925925926,
+        "normalized_non_full_moon_rate": 2.059408284023669,
+        "percent_difference": 358.7123074401835,
+        "t_statistic": 17.37608844265517,
+        "p_value": 1.0647328612783501e-43
+      }
+    }
+  },
+  "analysis_period": {
+    "start_date": "2022-01-01",
+    "end_date": "2022-12-31"
+  }
+}

@@ -4,6 +4,22 @@ from moon_calculator import MoonCalculator
 from analyzer import CrimeAnalyzer
 import os
 from dotenv import load_dotenv
+import json
+import pandas as pd
+
+def convert_timestamps(obj):
+    """Convert timestamps to string format for JSON serialization"""
+    if isinstance(obj, pd.Timestamp):
+        return obj.strftime('%Y-%m-%d')
+    elif isinstance(obj, datetime):
+        return obj.strftime('%Y-%m-%d')
+    elif isinstance(obj, pd.DataFrame):
+        return obj.to_dict(orient='records')
+    elif isinstance(obj, dict):
+        return {k: convert_timestamps(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [convert_timestamps(i) for i in obj]
+    return obj
 
 def main():
     # Load environment variables
@@ -17,17 +33,21 @@ def main():
     moon_calculator = MoonCalculator()
     analyzer = CrimeAnalyzer(moon_calculator)
 
-    # Set date range for analysis (use 2022 for both cities)
+    # Create output directory for JSON files if it doesn't exist
+    os.makedirs('analysis_data', exist_ok=True)
+
+    # Set date range for analysis (use 2022 for all cities)
     start_date = datetime(2022, 1, 1)
     end_date = datetime(2022, 12, 31)
     
     print(f"Analyzing data from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
 
-    # Store moon analysis results for both cities
+    # Store moon analysis results for all cities
     city_data = {}
+    all_analysis_results = {}
     
     # Analysis for each city
-    cities = ['CHICAGO', 'NYC']
+    cities = ['CHICAGO', 'NYC', 'LA']
     for city in cities:
         print(f"\nAnalyzing data for {city}...")
         
@@ -38,8 +58,13 @@ def main():
                     start_date.strftime('%Y-%m-%d'),
                     end_date.strftime('%Y-%m-%d')
                 )
-            else:
+            elif city == 'NYC':
                 crime_data = data_fetcher.fetch_nyc_homicides(
+                    start_date.strftime('%Y-%m-%d'),
+                    end_date.strftime('%Y-%m-%d')
+                )
+            else:  # LA
+                crime_data = data_fetcher.fetch_la_homicides(
                     start_date.strftime('%Y-%m-%d'),
                     end_date.strftime('%Y-%m-%d')
                 )
@@ -57,6 +82,14 @@ def main():
                 )
                 # Store the analysis results
                 city_data[city] = moon_analysis['daily_data']
+                all_analysis_results[city] = convert_timestamps(moon_analysis)
+                
+                # Export individual city analysis to JSON
+                output_file = os.path.join('analysis_data', f'{city.lower()}_analysis.json')
+                with open(output_file, 'w') as f:
+                    json.dump(convert_timestamps(moon_analysis), f, indent=2)
+                print(f"Exported analysis results to: {output_file}")
+                
             except Exception as e:
                 print(f"Error in moon phase analysis for {city}: {str(e)}")
                 continue
@@ -106,14 +139,29 @@ def main():
             print(f"Error analyzing {city}: {str(e)}")
 
     # Create and save cities comparison visualization
-    if len(city_data) == 2:  # Only if we have data for both cities
+    if len(city_data) >= 2:  # If we have data for at least two cities
         try:
             comparison_fig = analyzer.create_cities_comparison(
-                city_data['CHICAGO'],
-                city_data['NYC']
+                city_data.get('CHICAGO', pd.DataFrame()),
+                city_data.get('NYC', pd.DataFrame()),
+                city_data.get('LA', pd.DataFrame())
             )
             comparison_fig.write_html("cities_comparison.html")
             print("\nCreated cities comparison visualization: cities_comparison.html")
+            
+            # Export combined analysis results
+            combined_output = {
+                'cities': all_analysis_results,
+                'analysis_period': {
+                    'start_date': start_date.strftime('%Y-%m-%d'),
+                    'end_date': end_date.strftime('%Y-%m-%d')
+                }
+            }
+            combined_output_file = os.path.join('analysis_data', 'combined_analysis.json')
+            with open(combined_output_file, 'w') as f:
+                json.dump(combined_output, f, indent=2)
+            print(f"Exported combined analysis results to: {combined_output_file}")
+            
         except Exception as e:
             print(f"\nError creating cities comparison: {str(e)}")
 

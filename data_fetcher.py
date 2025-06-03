@@ -12,6 +12,13 @@ class DataFetcher:
     def __init__(self):
         self.chicago_api_url = "https://data.cityofchicago.org/resource/9hwr-2zxp.json"  # 2022 crimes API
         self.nyc_api_url = "https://data.cityofnewyork.us/resource/qgea-i56i.json"  # Historical complaints API
+        self.la_api_url = "https://data.lacity.org/resource/2nrs-mtv8.json"  # LA crime data API
+
+    def _format_date(self, date_obj):
+        """Helper method to format dates consistently"""
+        if isinstance(date_obj, (datetime, pd.Timestamp)):
+            return date_obj.strftime('%Y-%m-%d')
+        return date_obj
 
     def fetch_chicago_homicides(self, start_date, end_date):
         """Fetch homicide data from Chicago Data Portal"""
@@ -27,7 +34,9 @@ class DataFetcher:
             if 'date' not in df.columns:
                 print(f"Available columns: {df.columns.tolist()}")
                 raise Exception("'date' column not found in response")
-            df['date'] = pd.to_datetime(df['date'])
+            
+            # Convert dates and ensure they're strings
+            df['date'] = pd.to_datetime(df['date']).apply(self._format_date)
             return df
         else:
             print(f"Chicago API Response: {response.text}")
@@ -62,7 +71,8 @@ class DataFetcher:
             # Convert date column - handle both possible column names
             date_col = 'cmplnt_fr_dt'
             if date_col in df.columns:
-                df['date'] = pd.to_datetime(df[date_col]).dt.date.apply(lambda x: datetime.combine(x, datetime.min.time()))
+                # Convert to datetime and then to string format
+                df['date'] = pd.to_datetime(df[date_col]).apply(self._format_date)
             else:
                 print(f"Warning: No date column found in NYC data. Available columns: {df.columns.tolist()}")
                 return pd.DataFrame(columns=['date'])
@@ -72,11 +82,49 @@ class DataFetcher:
             print(f"NYC API Response: {response.text}")
             raise Exception(f"Failed to fetch NYC data: {response.status_code}")
 
+    def fetch_la_homicides(self, start_date, end_date):
+        """Fetch homicide data from Los Angeles Data Portal"""
+        # Build the query with proper URL encoding
+        conditions = [
+            f"date_occ between '{start_date}T00:00:00' and '{end_date}T23:59:59'",
+            "crm_cd_desc like '%HOMICIDE%'"
+        ]
+        where_clause = ' AND '.join(conditions)
+        
+        query = f"?$where={quote(where_clause)}"
+        query += "&$order=date_occ DESC"
+        
+        url = self.la_api_url + query
+        print(f"Querying LA API with URL: {url}")  # Debug output
+        
+        response = requests.get(url)
+        if response.status_code == 200:
+            df = pd.DataFrame(response.json())
+            if len(df) == 0:
+                print("Warning: No LA homicide data found for the specified date range")
+                return pd.DataFrame(columns=['date'])
+            
+            # Print available columns for debugging
+            print("Available columns in LA data:", df.columns.tolist())
+            
+            # Convert date column
+            if 'date_occ' in df.columns:
+                df['date'] = pd.to_datetime(df['date_occ']).apply(self._format_date)
+            else:
+                print(f"Warning: No date column found in LA data. Available columns: {df.columns.tolist()}")
+                return pd.DataFrame(columns=['date'])
+            
+            return df
+        else:
+            print(f"LA API Response: {response.text}")
+            raise Exception(f"Failed to fetch LA data: {response.status_code}")
+
     def get_city_coordinates(self, city):
         """Return coordinates for supported cities"""
         coordinates = {
             'CHICAGO': {'lat': 41.8781, 'lon': -87.6298},
-            'NYC': {'lat': 40.7128, 'lon': -74.0060}
+            'NYC': {'lat': 40.7128, 'lon': -74.0060},
+            'LA': {'lat': 34.0522, 'lon': -118.2437}
         }
         return coordinates.get(city.upper())
 
@@ -110,6 +158,10 @@ class DataFetcher:
                 'p_value': 1.0,
                 'merged_data': pd.DataFrame(columns=['date', 'distance'])
             }
+
+        # Format dates consistently
+        sat_df['date'] = sat_df['date'].apply(self._format_date)
+        crime_data['date'] = crime_data['date'].apply(self._format_date)
 
         # Group crimes by date for correlation analysis
         daily_crimes = crime_data.groupby('date').size().reset_index(name='crime_count')
