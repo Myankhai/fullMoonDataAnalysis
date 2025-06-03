@@ -1,6 +1,6 @@
 # Moon Cycle Crime Analysis
 
-This project analyzes the relationship between homicide frequencies in major US cities (Chicago and NYC), and full moon lunar cycles. The analysis combines crime data with astronomical events to explore potential correlations.
+This project analyzes the relationship between homicide frequencies in major US cities (Chicago and NYC), and full moon lunar cycles. The analysis combines crime data from the Chicago Data Portal and NYC OpenData's API's with astronomical events to explore potential correlations.
 
 ## Features
 - Fetches and analyzes homicide data from Chicago and NYC
@@ -21,7 +21,7 @@ This project analyzes the relationship between homicide frequencies in major US 
 ## Data Sources
 - Chicago Data Portal
 - NYC OpenData
-- Astronomical calculations using ephem
+- Astronomical calculations using Ephem
 
 ## Requirements
 - Python 3.8+
